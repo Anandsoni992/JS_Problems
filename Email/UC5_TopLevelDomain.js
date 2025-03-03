@@ -9,4 +9,5 @@ console.log(validateEmail("abc.xyz@bridgelabz.co"));
 console.log(validateEmail("abc@xyz.co.in"));           
 console.log(validateEmail("abc@bridgelabzcom"));       
 console.log(validateEmail("abc$xyz@bridgelabz.co"));  
-console.log(validateEmail("abcxyz@bridgelabz.co"));    
+console.log(validateEmail("abcxyz@bridgelabz.co")); 
+   
